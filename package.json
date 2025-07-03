@@ -1,0 +1,28 @@
+{
+  "name": "supportbank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anamariasuditu/SupportBank.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anamariasuditu/SupportBank/issues"
+  },
+  "homepage": "https://github.com/anamariasuditu/SupportBank#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "papaparse": "^5.5.3",
+    "readline-sync": "^1.4.10",
+    "ts-node": "^10.9.2"
+  }
+}
